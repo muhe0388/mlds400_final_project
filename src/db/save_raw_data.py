@@ -70,6 +70,10 @@ def prepare_raw_restaurants():
         df["latitude"] = lats
         df["longitude"] = lngs
 
+    # data_cid save as TEXT
+    if "data_cid" in df.columns:
+        df["data_cid"] = df["data_cid"].astype(str)
+
     # Light normalization for raw layer: keep everything but coerce to string where needed
     df = _coerce_object_columns_to_str(df)
 
