@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+folium
+geopy
+requests
+python-dotenv
+textblob
+notebook
+sqlite3
