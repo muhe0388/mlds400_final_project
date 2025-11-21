@@ -167,7 +167,7 @@ jupyter notebook notebooks/Evanston.ipynb
 
 ------------------------------------------------------------------------
 
-## 📊 Key Insights (Replace with Real Findings)
+## 📊 Key Insights
 
 -   Many high-quality restaurants are underrated ("hidden gems")\
 -   Online ordering boosts popularity more than quality\
@@ -194,20 +194,9 @@ jupyter notebook notebooks/Evanston.ipynb
 ------------------------------------------------------------------------
 
 ## 👥 Contributors
-
-  -----------------------------------------------------------------------
-  Name                                         Role
-  -------------------------------------------- --------------------------
-  Paul                                         Story framing, EDA plan,
-                                               presentation
-
-  Mu                                           Data collection, raw→clean
-                                               transformations, EDA
-
-  Ashwath                                      GitHub architecture,
-                                               pipeline documentation,
-                                               notebook integration
-  -----------------------------------------------------------------------
+-----------------------------------------------------------------------
+Names: Paul Miyashita, Mu He, Ashwath Ekambaram 
+-----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
